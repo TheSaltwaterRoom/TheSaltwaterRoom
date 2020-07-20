@@ -2,7 +2,7 @@
   <img src="https://cdn.jsdelivr.net/gh/cnguu/cnguu@master/hello-world.gif" width="30%">
 </p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TheSaltwaterRoom&show_icons=true&title_color=0366d6&icon_color=ffc83d&text_color=24292e&bg_color=fff)](https://github.com/TheSaltwaterRoom/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TheSaltwaterRoom&show_icons=true&title_color=0366d6&icon_color=ffc83d&text_color=24292e&bg_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **TheSaltwaterRoom/TheSaltwaterRoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
