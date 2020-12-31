@@ -17,13 +17,19 @@
 
 <br>
 
-<!-- - <img alt="GIF" src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
-- <img alt="GIF" src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m *currently learning* how to **flex README** on my **profile** 💪.
-- <img alt="GIF" src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/headbang.gif" width="20vw" /> I’m *looking to collaborate* on **python 🐍 projects**.
-- <img alt="GIF" src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/hmm.gif" width="20vw" /> I’m *looking* for *help* with **wifi connection 🌐**
-- <img alt="GIF" src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/happy.gif" width="20vw" /> *Ask me* about **why do I think aliens 👽 exist.**
-- <img alt="GIF" src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/powerup.gif" width="20vw" /> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
-- <img alt="GIF" src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴 -->
+- <img alt="GIF" src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/wave.gif" width="20vw" /> 君不见黄河之水天上来，奔流到海不复回。
+- <img alt="GIF" src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/gandalf_parrot.gif" width="20vw" />君不见高堂明镜悲白发，朝如青丝暮成雪。
+- <img alt="GIF" src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/headbang.gif" width="20vw" /> 人生得意须尽欢，莫使金樽空对月。
+- <img alt="GIF" src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/hmm.gif" width="20vw" /> 天生我材必有用，千金散尽还复来。
+- <img alt="GIF" src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/happy.gif" width="20vw" /> 烹羊宰牛且为乐，会须一饮三百杯。
+- <img alt="GIF" src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/powerup.gif" width="20vw" />岑夫子，丹丘生，将进酒，杯莫停。
+- <img alt="GIF" src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/coin.gif" width="20vw" /> 与君歌一曲，请君为我倾耳听。
+- <img alt="GIF" src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/coin.gif" width="20vw" /> 钟鼓馔玉不足贵，但愿长醉不复醒。
+- <img alt="GIF" src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/coin.gif" width="20vw" /> 与君歌一曲，请君为我倾耳听。
+- <img alt="GIF" src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/coin.gif" width="20vw" /> 古来圣贤皆寂寞，惟有饮者留其名。
+- <img alt="GIF" src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/coin.gif" width="20vw" /> 陈王昔时宴平乐，斗酒十千恣欢谑。
+- <img alt="GIF" src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/coin.gif" width="20vw" /> 五花马，千金裘，
+- <img alt="GIF" src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/coin.gif" width="20vw" /> 呼儿将出换美酒，与尔同销万古愁。
 
 
 <!-- <br> -->
@@ -60,7 +66,7 @@
 
 
 
-| [<img src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/TheSaltwaterRoom) | [<img src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/TheSaltwaterRoom) | [<img src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/TheSaltwaterRoom/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/TheSaltwaterRoom) | [<img src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/13944080/TheSaltwaterRoom) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@shubhamdeepjha) | [<img src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:TheSaltwaterRoom@gmail.com)
+| [<img src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/%E6%96%87%E9%80%9A-%E7%8E%8B-9b3779146/) | [<img src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/saltwater_zm) | [<img src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/saltwater_xin/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/TheSaltwaterRoom)
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 
