@@ -12,9 +12,9 @@
 <p>
   <em>
     今生是我们的哨岗，即便今天艰难，但愿精彩度日。接受每个给定的剧本，从容接受下场的命定。
-    <br>
-    <b align="right">罗翔老师</b>
   </em>  
+  <br>
+  <em style="text-align:right"><b>--罗翔老师</b></em>
 </p>
 
 <br>
