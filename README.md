@@ -14,9 +14,7 @@
     今生是我们的哨岗，即便今天艰难，但愿精彩度日。接受每个给定的剧本，从容接受下场的命定。
   </em>  
 </p>
-<br>
-<h3 style="text-align:right">--罗翔老师</h3>
-
+<p style="text-align:right">--罗翔老师</p>
 
 <br>
 
