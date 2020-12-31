@@ -11,25 +11,27 @@
 
 <p>
   <em>
-    今生是我们的哨岗，即便今天艰难，但愿精彩度日。接受每个给定的剧本，从容接受下场的命定。<b>罗翔老师</b>
+    今生是我们的哨岗，即便今天艰难，但愿精彩度日。接受每个给定的剧本，从容接受下场的命定。
+    <br>
+    <b align="right">罗翔老师</b>
   </em>  
 </p>
 
 <br>
 
-- <img alt="GIF" src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/wave.gif" width="20vw" /> 君不见黄河之水天上来，奔流到海不复回。
-- <img alt="GIF" src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/gandalf_parrot.gif" width="20vw" />君不见高堂明镜悲白发，朝如青丝暮成雪。
-- <img alt="GIF" src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/headbang.gif" width="20vw" /> 人生得意须尽欢，莫使金樽空对月。
-- <img alt="GIF" src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/hmm.gif" width="20vw" /> 天生我材必有用，千金散尽还复来。
-- <img alt="GIF" src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/happy.gif" width="20vw" /> 烹羊宰牛且为乐，会须一饮三百杯。
-- <img alt="GIF" src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/powerup.gif" width="20vw" />岑夫子，丹丘生，将进酒，杯莫停。
-- <img alt="GIF" src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/coin.gif" width="20vw" /> 与君歌一曲，请君为我倾耳听。
-- <img alt="GIF" src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/coin.gif" width="20vw" /> 钟鼓馔玉不足贵，但愿长醉不复醒。
-- <img alt="GIF" src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/coin.gif" width="20vw" /> 与君歌一曲，请君为我倾耳听。
-- <img alt="GIF" src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/coin.gif" width="20vw" /> 古来圣贤皆寂寞，惟有饮者留其名。
-- <img alt="GIF" src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/coin.gif" width="20vw" /> 陈王昔时宴平乐，斗酒十千恣欢谑。
-- <img alt="GIF" src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/coin.gif" width="20vw" /> 五花马，千金裘，
-- <img alt="GIF" src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/coin.gif" width="20vw" /> 呼儿将出换美酒，与尔同销万古愁。
+- 君不见黄河之水天上来，奔流到海不复回。
+- 君不见高堂明镜悲白发，朝如青丝暮成雪。
+- 人生得意须尽欢，莫使金樽空对月。
+- 天生我材必有用，千金散尽还复来。
+- 烹羊宰牛且为乐，会须一饮三百杯。
+- 岑夫子，丹丘生，将进酒，杯莫停。
+- 与君歌一曲，请君为我倾耳听。
+- 钟鼓馔玉不足贵，但愿长醉不复醒。
+- 与君歌一曲，请君为我倾耳听。
+- 古来圣贤皆寂寞，惟有饮者留其名。
+- 陈王昔时宴平乐，斗酒十千恣欢谑。
+- 五花马，千金裘，
+- 呼儿将出换美酒，与尔同销万古愁。
 
 
 <!-- <br> -->
