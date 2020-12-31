@@ -9,17 +9,13 @@
 
 ### <img src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/Earth.gif" width="24px">
 
-<!-- <p>
+<p>
   <em>
-    I am a 3rd Year undergraduate from <a href="https://www.srmist.edu.in/"> <b>SRM Institute of Science and technology</b>, Kattankulatur</a>.  
-    A budding <b>Software Developer</b> <img src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel.</b> <img src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/Medal.gif" width="20px">
+    今生是我们的哨岗，即便今天艰难，但愿精彩度日。接受每个给定的剧本，从容接受下场的命定。<b>罗翔老师</b>
   </em>  
-</p> -->
+</p>
 
-<!-- <br> -->
+<br>
 
 <!-- - <img alt="GIF" src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
 - <img alt="GIF" src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m *currently learning* how to **flex README** on my **profile** 💪.
@@ -41,12 +37,12 @@
 </a>
 
 
-<a href="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheSaltwaterRoom&repo=TheSaltwaterRoom&theme=dark" />
+<a href="https://github.com/TheSaltwaterRoom/laravelApi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheSaltwaterRoom&repo=laravelApi&theme=dark" />
 </a>
 
-<a href="https://github.com/TheSaltwaterRoom/Fun-with-DS-and-Algo">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheSaltwaterRoom&repo=Fun-with-DS-and-Algo&theme=dark" />
+<a href="https://github.com/TheSaltwaterRoom/DesignPatternsPHP">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheSaltwaterRoom&repo=DesignPatternsPHP&theme=dark" />
 </a>
 
 <br>
