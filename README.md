@@ -13,9 +13,10 @@
   <em>
     今生是我们的哨岗，即便今天艰难，但愿精彩度日。接受每个给定的剧本，从容接受下场的命定。
   </em>  
-  <br>
-  <h3 style="text-align:right">--罗翔老师</h3>
 </p>
+<br>
+<h3 style="text-align:right">--罗翔老师</h3>
+
 
 <br>
 
@@ -70,7 +71,7 @@
 
 
 | [<img src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/%E6%96%87%E9%80%9A-%E7%8E%8B-9b3779146/) | [<img src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/saltwater_zm) | [<img src="https://github.com/TheSaltwaterRoom/TheSaltwaterRoom/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/saltwater_xin/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/TheSaltwaterRoom)
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|
 
 
 
